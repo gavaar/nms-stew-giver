@@ -1,0 +1,15 @@
+{
+  "name": "stew",
+  "version": "1.0.0",
+  "description": "stew giver for no man sky",
+  "main": "stew-giver.js",
+  "dependencies": {
+    "robotjs": "^0.6.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "fran",
+  "license": "ISC"
+}
